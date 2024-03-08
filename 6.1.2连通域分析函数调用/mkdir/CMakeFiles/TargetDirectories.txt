@@ -1,0 +1,3 @@
+/home/yin/opencv_my_study/6.1.2连通域分析函数调用/mkdir/CMakeFiles/opencv_test.dir
+/home/yin/opencv_my_study/6.1.2连通域分析函数调用/mkdir/CMakeFiles/edit_cache.dir
+/home/yin/opencv_my_study/6.1.2连通域分析函数调用/mkdir/CMakeFiles/rebuild_cache.dir
