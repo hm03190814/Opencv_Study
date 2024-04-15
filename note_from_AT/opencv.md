@@ -157,7 +157,6 @@ cv::Mat cv::imread(const String & filename, int flags=IMREAD_COLOR);  // 读取�
 a.data 数据
 a.empty();  // 是否为空，空为True
 ```
-
 ![](./source/imread.jpg)
 
 ###      	 	1.2.2 namedWindow
